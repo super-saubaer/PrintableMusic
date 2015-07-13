@@ -1,0 +1,37 @@
+/*
+ * Created on 25.05.2004
+ *
+ */
+package com.groovemanager.app.mc909se;
+
+import com.groovemanager.core.FileManager;
+
+/**
+ * Starter class for the Mc909SampleEditor 
+ * @author Manu Robledo
+ *
+ */
+public class Starter {
+	public static void main(String[] args){
+		// Init Classpath and extension dir
+		FileManager.getDefault();
+		final Mc909SampleEditor s = new Mc909SampleEditor();
+		s.setBlockOnOpen(true);
+		
+		/*new Thread(){
+			public void run(){
+				while(s.getShell() == null) try{
+					Thread.sleep(1000);
+				}
+				catch(InterruptedException e){}
+				s.getShell().getDisplay().syncExec(new Runnable(){
+					public void run(){
+						s.fileOpened(new File("c:\\dokumente und einstellungen\\manu\\desktop\\zeit.wav"));
+					}
+				});
+			}
+		}.start();*/
+		
+		s.open();
+	}
+}
