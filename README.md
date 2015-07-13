@@ -1,3 +1,5 @@
+![alt tag](https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/PRINTABLE_MUSIC/welcome_neu.jpg)
+
 # PrintableMusic
 
 Projekt im Seminar Künstlerisch/Mediales Projekt, Sommers Semester 2015 LMU München.
