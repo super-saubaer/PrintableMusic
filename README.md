@@ -13,3 +13,13 @@ Bei diesem Gedanken setzt PrintableMusic an. Denn PrintableMusic versucht Musik 
 Aus diesem Grund wird durch die eingespielte Musik in künstlerische Skulpturen verwandelt. Diese Skulpturen sind so etnworfen, dass sie von einem 3D-Drucker ausgedruckt werden können. Durch dieses Vorgehen wird aus Musik ein physisches Objekt, welches die gespielte Musik darstellt. 
 
 Die physischen Skulpturen bieten nun die Möglichkeit, Musik visuell zu betrachten, haptisch zu erfühlen und anahnd verschiedener Eigenschaften wie Größe, Form, Ausprägung, Gewicht und Farbe zu vergleichen.
+
+# Funktionsweise
+Midi -> to Wert -> to Skulpture
+
+GUI -> Zwei Sculpturen auswählbar...
+
+# Darstellung
+.ttl Dateien -> darstellung mit open Scad openSCAD
+
+# 
