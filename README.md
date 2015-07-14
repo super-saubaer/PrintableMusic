@@ -23,6 +23,8 @@ Dieses 3D-Objekt wird anschließend in eine druckbare Datei exportiert, sodass d
 PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes ermöglicht.
 
 <img src="https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.png" width="200" align="center"/>
+<img src="https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/start.png" width="200" align="center"/>
+<img src="https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/stop.png" width="200" align="center"/>
 
 Zunächst muss eine der beiden Skulpturen-Arten ausgewählt werden. Wird 'Cubes' ausgewählt, so wird die Skulptur aus unterschiedlchen kleinen Würfeln zusammengestellt, die sich in Größe, Position und Lage unterscheiden. 'Prisms' erzeugt eine Skulptur, die aus unterschiedlichen Platten besteht, die nacheinander aufeinandergereiht werden.
 Ist die Skulpturen-Art ausgewählt, kann unter dem Zweiten Punkt die Aufnahme gestartet werden. Ab jetzt werden alle MIDI-Informationen gespeichert und in echtzeit zur Skultpur hinzugefügt. Durch anklicken des 'Safe Sculpture' Buttons, wird die druckbare Datei gespeichert und kann nun an einen 3D-Drucker weitergegeleitet werden. 
