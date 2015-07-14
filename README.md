@@ -33,3 +33,4 @@ Ist die Skulpturen-Art ausgewählt, kann unter dem Zweiten Punkt die Aufnahme ge
 # Darstellung
 Die nun erstellten SCAD-Dateien können mit dem open-source Programm [openSCAD](http://www.openscad.org/) dargestellt werden. Da openSCAD automatisch die Darstellung anpasst, sobald sich die Informationen einer Datei ändern, kann durch openScad auch die Entstehung der Skulptur live beim Musik spielen angezeigt werden. Der Benutzer sieht also, wie sich die Skulptur nach und nach entsteht. 
 
+![current](https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/current.png)
