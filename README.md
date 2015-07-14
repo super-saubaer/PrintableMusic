@@ -15,7 +15,10 @@ Aus diesem Grund wird wandelt PrintableMusic Musik in künstlerische Skulpturen.
 Die Skulpturen bieten nun die Möglichkeit, Musik visuell zu betrachten, haptisch zu erfühlen und anhand verschiedener Eigenschaften wie Größe, Form, Ausprägung, Gewicht und Farbe zu vergleichen.
 
 # Funktionsweise
-Midi -> to Wert -> to Skulpture
+PrintableMusic ist entworfen worden, um Live eingespielte Musik in physikalische Skulpturen zu wandeln. Also Austauschformat wurde hier MIDI gewählt. Das Programm ist dementsprechend in der Lage, MIDI-Signale eines Musikinstrumentes entgegenzunehmen, beispielsweise die MIDI-Informationen eines Keyboards. Diese Signale werden durch einen Synthesizer in Töne gewandelt und anschließend ausgegeben. Der User hört also, was er spielt. 
+Die MIDI-Informationen werden anschließend in abstrakte Objekte gewandelt, aus denen die Skulpturen entstehen. Dabei erweitert jeder Ton die Skulptur um ein weiteres, kleines Element, je nach Informationsgehalt der Tonhöhe und Lautstärke. 
+Alle Informationen formen dabei im Programm ein 3D-Objekt, welches die gesammte Skulptur darstellt. Dieses 3D-Objekt wird anschließend in eine druckbare Datei exportiert, sodass die Form ausgedruckt werden kann.
+
 
 GUI -> Zwei Sculpturen auswählbar...
 
