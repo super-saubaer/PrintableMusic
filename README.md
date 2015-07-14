@@ -2,17 +2,17 @@
 
 
 Projekt im Seminar Künstlerisch/Mediales Projekt, Sommers Semester 2015, Ludwig-Maximilians Universität München.
-Sebastian Siepe, Medininformatik, Master.
+Sebastian Siepe, Masterstudiengang Medininformatik.
 
 
 # PrintableMusic
-PrintableMusic ist ein künstlerisches Proejekt, welches das Ziel verfolgt, Musik zum Anfassen zu gestalten.
-Musik ist etwas flüchtiges: Wir können Musik erleben, solange diese erklingt und wir sie hören können. Dieses Erleben der Musik ist jedoch sofort vorbei, wenn sie zuende ist. Es liegt in der Natur der Musik, das sie nicht zu betrachten, oder anzufassen ist.
+PrintableMusic ist ein künstlerisches Projeekt, welches das Ziel verfolgt, Musik zum Anfassen zu gestalten.
+Musik ist etwas flüchtiges: Wir können Musik erleben, solange diese erklingt und wir sie hören können. Dieses Erlebnis der Musik ist jedoch vorbei, sobald sie nicht mehr zu hören ist. Es liegt in der Natur der Musik, das sie nicht zu betrachten, oder anzufassen, sondern nur zu hören ist.
 
-Bei diesem Gedanken setzt PrintableMusic an. Denn PrintableMusic versucht Musik eine neue Form zu geben, so dass sie betrachtet, erfühlt und physisch vergleichbar ist. 
-Aus diesem Grund wird durch die eingespielte Musik in künstlerische Skulpturen verwandelt. Diese Skulpturen sind so etnworfen, dass sie von einem 3D-Drucker ausgedruckt werden können. Durch dieses Vorgehen wird aus Musik ein physisches Objekt, welches die gespielte Musik darstellt. 
+Bei diesem Gedanken setzt PrintableMusic an. Denn PrintableMusic versucht Musik eine neue Form zu geben, so dass sie betrachtet, erfühlt und physisch verglichen werden kann. 
+Aus diesem Grund wird wandelt PrintableMusic Musik in künstlerische Skulpturen. Diese Skulpturen können anschließend durch einen 3D-Drucker ausgedruckt werden. Durch dieses Vorgehen wird aus Musik ein physisches Objekt, welches die eingespielte Musik räpresentiert. 
 
-Die physischen Skulpturen bieten nun die Möglichkeit, Musik visuell zu betrachten, haptisch zu erfühlen und anahnd verschiedener Eigenschaften wie Größe, Form, Ausprägung, Gewicht und Farbe zu vergleichen.
+Die Skulpturen bieten nun die Möglichkeit, Musik visuell zu betrachten, haptisch zu erfühlen und anhand verschiedener Eigenschaften wie Größe, Form, Ausprägung, Gewicht und Farbe zu vergleichen.
 
 # Funktionsweise
 Midi -> to Wert -> to Skulpture
