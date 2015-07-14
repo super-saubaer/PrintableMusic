@@ -24,6 +24,11 @@ PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes
 
 <img src="https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.png" width="200" align="center"/>
 
+Zunächst muss eine der beiden Skulpturen-Arten ausgewählt werden. Wird 'Cubes' ausgewählt, so wird die Skulptur aus unterschiedlchen kleinen Würfeln zusammengestellt, die sich in Größe, Position und Lage unterscheiden. 'Prisms' erzeugt eine Skulptur, die aus unterschiedlichen Platten besteht, die nacheinander aufeinandergereiht werden.
+Ist die Skulpturen-Art ausgewählt, kann unter dem Zweiten Punkt die Aufnahme gestartet werden. Ab jetzt werden alle MIDI-Informationen gespeichert und in echtzeit zur Skultpur hinzugefügt. Durch anklicken des 'Safe Sculpture' Buttons, wird die druckbare Datei gespeichert und kann nun an einen 3D-Drucker weitergegeleitet werden. 
+
+
+
 Hallo
 # Darstellung
 .ttl Dateien -> darstellung mit open Scad openSCAD
