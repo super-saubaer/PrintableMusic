@@ -22,7 +22,7 @@ Dieses 3D-Objekt wird anschließend in eine druckbare Datei exportiert, sodass d
 # Bedienung
 PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes ermöglicht.
 
-![ui main](https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.jpg)
+![ui main](https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.png)
 
 
 # Darstellung
