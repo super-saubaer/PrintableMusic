@@ -24,7 +24,7 @@ PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes
 
 
 
-![](https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.png =20x)
+![](https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.png)
 
 
 
