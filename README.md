@@ -22,7 +22,7 @@ Dieses 3D-Objekt wird anschließend in eine druckbare Datei exportiert, sodass d
 # Bedienung
 PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes ermöglicht.
 
-<img src="https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.png" width="200" height="200" />
+<img src="https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/main.png" width="200" />
 
 # Darstellung
 .ttl Dateien -> darstellung mit open Scad openSCAD
