@@ -21,6 +21,8 @@ Dieses 3D-Objekt wird anschließend in eine druckbare Datei exportiert, sodass d
 
 # Bedienung
 PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes ermöglicht.
+[smile]: Resources/bilder/main.png
+{: height="36px" width="36px"}
 
 ![smiley](Resources/bilder/main.png){:height="36px" width="36px"}.
 
