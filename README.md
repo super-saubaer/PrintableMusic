@@ -17,7 +17,7 @@ Die Skulpturen bieten nun die Möglichkeit, Musik visuell zu betrachten, haptisc
 # Funktionsweise
 PrintableMusic ist entworfen worden, um Live-eingespielte Musik in physikalische Skulpturen zu wandeln. Als Austauschformat wurde MIDI gewählt. Das Programm ist dementsprechend in der Lage, MIDI-Signale eines Musikinstrumentes entgegenzunehmen, beispielsweise die MIDI-Informationen eines Keyboards. Diese Signale werden durch einen Synthesizer in Töne gewandelt und anschließend wiedergegeben. Der User hört also, was er spielt. 
 Die MIDI-Informationen werden nachfolgend in abstrakte 3D-Objekte gewandelt, welche die Skulpturen darstellen. Dabei erweitert jeder Ton die Skulptur um ein weiteres, kleines Element, je nach Informationsgehalt der Tonhöhe und Lautstärke. 
-Dieses 3D-Objekt wird anschließend in eine druckbare Datei exportiert, sodass die Form durch einen 3D-Drucker ausgedruckt werden kann.
+Dieses 3D-Objekt wird anschließend in eine druckbare SCAD-Datei exportiert, sodass die Form durch einen 3D-Drucker ausgedruckt werden kann.
 
 # Bedienung
 PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes ermöglicht.
@@ -27,12 +27,9 @@ PrintableMusic besitzt ein User Interfaces, welches die Bedienung des Programmes
 <img src="https://raw.github.com/super-saubaer/PrintableMusic/master/Resources/bilder/stop.png" width="250" align="center"/>
 
 Zunächst muss eine der beiden Skulpturen-Arten ausgewählt werden. Wird 'Cubes' ausgewählt, so wird die Skulptur aus unterschiedlchen kleinen Würfeln zusammengestellt, die sich in Größe, Position und Lage unterscheiden. 'Prisms' erzeugt eine Skulptur, die aus unterschiedlichen Platten besteht, die nacheinander aufeinandergereiht werden.
-Ist die Skulpturen-Art ausgewählt, kann unter dem Zweiten Punkt die Aufnahme gestartet werden. Ab jetzt werden alle MIDI-Informationen gespeichert und in echtzeit zur Skultpur hinzugefügt. Durch anklicken des 'Safe Sculpture' Buttons, wird die druckbare Datei gespeichert und kann nun an einen 3D-Drucker weitergegeleitet werden. 
+Ist die Skulpturen-Art ausgewählt, kann unter dem Zweiten Punkt die Aufnahme gestartet werden. Ab jetzt werden alle MIDI-Informationen gespeichert und in echtzeit zur Skultpur hinzugefügt. Durch anklicken des 'Safe Sculpture' Buttons, wird die druckbare SCAD-Datei gespeichert und diese kann nun an einen 3D-Drucker weitergeleitet werden. 
 
 
-
-Hallo
 # Darstellung
-.ttl Dateien -> darstellung mit open Scad openSCAD
+Die nun erstellten SCAD-Dateien können mit dem open-source Programm [openSCAD](http://www.openscad.org/) dargestellt werden. Da openSCAD automatisch die Darstellung anpasst, sobald sich die Informationen einer Datei ändern, kann durch openScad auch die Entstehung der Skulptur live beim Musik spielen angezeigt werden. Der Benutzer sieht also, wie sich die Skulptur nach und nach entsteht. 
 
-# 
